@@ -66,9 +66,12 @@
               <li class="nav-item">
                 <a class="nav-link" href="#book table">Book Table</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="web">Admin</a>
+              </li>
             </ul>
             <div class="user_option">
-              <a href="" class="user_link">
+              <a href="views/src" class="user_link">
                 <i class="fa fa-user" aria-hidden="true"></i>
               </a>
               <a class="cart_link" href="#">
@@ -551,7 +554,7 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Pizza
+                    Tasty Pizza 2
                   </h5>
                   <p>
                     Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
@@ -779,7 +782,7 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Pizza
+                    Tasty Pizza 1
                   </h5>
                   <p>
                     Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
@@ -855,14 +858,14 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Tasty Burger
+                    Tasty Burger 2
                   </h5>
                   <p>
                     Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
                   </p>
                   <div class="options">
                     <h6>
-                      $12
+                      $14
                     </h6>
                     <a href="">
                       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -931,14 +934,14 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Tasty Burger
+                    Tasty Burger 1
                   </h5>
                   <p>
                     Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
                   </p>
                   <div class="options">
                     <h6>
-                      $14
+                      $12
                     </h6>
                     <a href="">
                       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
@@ -1007,7 +1010,7 @@
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Pasta
+                    Tasty Pasta
                   </h5>
                   <p>
                     Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
@@ -1303,16 +1306,16 @@
             Everyday
           </p>
           <p>
-            10.00 Am -10.00 Pm
+            10.00 - 22.00 WIB
           </p>
         </div>
       </div>
       <div class="footer-info">
         <p>
           &copy; <span id="displayYear"></span> All Rights Reserved By
-          <a href="https://html.design/">Html Templates</a><br><br>
+          <a href="https://html.design/">Seane Code</a><br><br>
           &copy; <span id="displayYear"></span> Distributed By
-          <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
+          <a href="https://themewagon.com/" target="_blank">Syin shara</a>
         </p>
       </div>
     </div>
