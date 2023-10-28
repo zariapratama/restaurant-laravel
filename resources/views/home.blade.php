@@ -67,7 +67,7 @@
                 <a class="nav-link" href="#book table">Book Table</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="web">Admin</a>
+                <a class="nav-link" href="login">Login Admin</a>
               </li>
             </ul>
             <div class="user_option">
